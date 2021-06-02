@@ -14,7 +14,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gamer92000&show_icons=true" alt="gamer92000" width="50%;"/></p>
 
 <p align="center">
-<a href="https://twitter.com/julian_imhof" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="julian_imhof" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/julian-imhof-a46968184" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julian-imhof-a46968184" height="30" width="30" /></a>
 <a href="https://instagram.com/julian__imhof" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julian__imhof" height="30" width="30" /></a>
 </p>
