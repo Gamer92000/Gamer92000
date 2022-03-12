@@ -14,9 +14,9 @@ For System Administration I use Ubuntu, Nginx, Docker and Nextcloud. Occasionall
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamer92000&layout=compact&hide=html&theme=gruvbox" alt="gamer92000" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamer92000&layout=compact&hide=html&theme=gruvbox" alt="gamer92000" height="180px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gamer92000&show_icons=true&theme=gruvbox" alt="gamer92000" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gamer92000&show_icons=true&theme=gruvbox" alt="gamer92000" height="180px"/>
 </p>
 
 <p align="left">
