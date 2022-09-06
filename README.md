@@ -3,7 +3,7 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on [**BP-frontend**](https://github.com/BP-WiSe21-22-Gruppe-52/BP-frontend)
+- 🔭 I’m currently working on [**Momentum**](https://github.com/BP-momentum/)
 
 - 📫 You can reach me via [**julianimhof.de**](https://julianimhof.de)
 
